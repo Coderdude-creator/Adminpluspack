@@ -1,8 +1,0 @@
-admin_panel/media
-admin_panel/static
-pgbackups
-config.yml
-.env
-ballsdex.log*
-venv
-__pycache__
